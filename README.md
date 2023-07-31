@@ -26,6 +26,9 @@ Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de d
 ###
 O próximo passo foi realizar o tratamento e a limpeza dos dados. Utilizamos o método **.info** para verificar o tipo de dados com o qual estávamos trabalhando e identificamos a existência de 35 linhas que não continham valores e a coluna "Salário Anual (R$)" que não estava no formato numérico. Realizamos a transformação dos dados, eliminamos as linhas vazias e, por fim, excluímos a coluna "Unnamed: 8", que não continha valores relevantes.
 ###
+<img src="/img/info-dados.jpg">
+
+###
 Em seguida, realizamos uma análise inicial e a criação dos gráficos. Utilizamos o método **.describe** para obter um resumo das informações e compreender o funcionamento da base de dados.
 ###
 <img src="/img/describe-dados.jpg">
