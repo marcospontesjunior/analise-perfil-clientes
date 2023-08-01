@@ -34,7 +34,7 @@ Em seguida, realizamos uma análise inicial e a criação dos gráficos. Utiliza
 <img src="/img/describe-dados.jpg">
 
 ###
-A nota média é 52 e com essa nota que iremos tomar de base para fazer a análise.
+Tomaremos como base para a análise a nota média observada, que foi de 52.
 
 ### Análise Exploratória:
 ###
