@@ -33,6 +33,9 @@ Em seguida, realizamos uma análise inicial e a criação dos gráficos. Utiliza
 ###
 <img src="/img/describe-dados.jpg">
 
+###
+A nota média é 52 e com essa nota que iremos tomar de base para fazer a análise.
+
 ### Análise Exploratória:
 ###
 - No primeiro gráfico, comparamos a origem do cliente (orgânico ou por meio de promoção) com a nota:
@@ -45,7 +48,7 @@ Podemos observar que existe pouca diferença nas notas entre clientes provenient
 
 <img src="/img/grafico-idade.png">
 
-Observamos uma queda nas notas entre pessoas abaixo de 19 anos, o que pode ser um eventual erro, uma vez que pessoas dessa idade não estariam realizando compras ou possuindo profissões.
+Observamos uma queda nas notas entre pessoas abaixo de 20 anos.
 ###
 - No terceiro gráfico, comparamos o salarial anual dos clientes com suas notas:
 
@@ -57,13 +60,13 @@ Pela análise desse gráfico, podemos concluir que a faixa salarial não é um f
 
 <img src="/img/grafico-profissao.png">
 
-Há uma diferença clara nas notas entre as profissões. Profissionais do entretenimento, artistas e marketing possuem notas mais elevadas, indicando que pessoas com essas profissões tendem a ter notas mais altas do que outras.
+Há uma diferença clara nas notas entre as profissões. Profissionais do entretenimento e artistas possuem notas mais elevadas, indicando que pessoas com essas profissões tendem a ter notas mais altas do que outras.
 ###
 - No quinto gráfico, comparamos a experiência de trabalho dos clientes com suas notas:
 
 <img src="/img/grafico-experiencia-trabalho.png">
 
-Observamos informações relevantes, mostrando que clientes com experiência de trabalho entre 10 a 15 anos possuem notas superiores, enquanto clientes com 15 anos ou mais de experiência não apresentam notas tão interessantes.
+Observamos informações relevantes, mostrando que clientes com experiência de trabalho entre 10 a 15 anos possuem notas superiores.
 ###
 - Por fim, no último gráfico, observou-se que clientes com agregado familiar maior que 7 pessoas tendem a obter notas muito baixas, fornecendo informações sobre quais clientes têm maior probabilidade de obter notas baixas.
 
@@ -71,6 +74,6 @@ Observamos informações relevantes, mostrando que clientes com experiência de 
 
 ### Conclusão:
 
-Após as análises realizadas, chegamos à conclusão de que o cliente ideal para a empresa é acima dos 20 anos, com profissão na área de entretenimento, arte ou marketing, experiência de trabalho entre 10 a 15 anos e um agregado familiar com menos de 7 membros. A faixa salarial não demonstrou ser um fator determinante para a análise.
+Após as análises realizadas, chegamos à conclusão de que o cliente ideal para a empresa é acima dos 20 anos, com profissão na área de entretenimento ou arte, experiência de trabalho entre 10 a 15 anos e um agregado familiar com menos de 7 membros. A origem do cliente e a faixa salarial não demonstrou ser um fator determinante para a análise.
 ###
-Adicionalmente, verificamos que profissionais da área de construção possuem a menor média de notas, sugerindo a possibilidade de implementar estratégias para melhorar sua satisfação e experiência com a empresa.
+Adicionalmente, verificamos que profissionais da área de construção e famílias com mais de 7 pessoas possuem a menor média de notas, sugerindo a possibilidade de implementar estratégias para melhorar a satisfação e experiência com a empresa.
