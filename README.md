@@ -6,7 +6,7 @@ Análise da base de dados em busca de identificar o cliente ideal para a empresa
 
 ### Proposta:
 
-Com informações extraídas de uma base de dados em formato .csv, será realizada uma análise de perfil, levando em consideração as informações que mais impactam na nota dos clientes.
+Com informações extraídas de uma base de dados em formato **.csv**, será realizada uma análise de perfil, levando em consideração as informações que mais impactam na nota dos clientes.
 ###
 Será feita uma análise exploratória com o objetivo de identificar os principais fatores que influenciam na nota dos clientes.
 ###
