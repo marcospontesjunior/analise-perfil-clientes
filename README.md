@@ -22,7 +22,7 @@ A solução final consistirá em um conjunto de gráficos, a partir dos quais se
 
 ### Metodologia:
 
-Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de dados. Enfrentamos um problema de encoding, pois a base de dados estava em português, então resolvemos o problema utilizando a propriedade **encoding='latin'** e a propriedade **sep=';'** para organizar e melhor visualizar o DataFrame.
+Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de dados. Enfrentamos um problema de encoding, pois a base de dados contia algum caractere especial e ou acentuação, então resolvemos o problema utilizando a propriedade **encoding='latin'** e a propriedade **sep=';'** para organizar e melhor visualizar o DataFrame.
 ###
 <img src="/img/dados.jpg">
 
