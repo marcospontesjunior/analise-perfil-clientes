@@ -24,9 +24,12 @@ A solução final consistirá em um conjunto de gráficos, a partir dos quais se
 
 Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de dados. Enfrentamos um problema de encoding, pois a base de dados estava em português, então resolvemos o problema utilizando a propriedade **encoding='latin'** e a propriedade **sep=';'** para organizar e melhor visualizar o DataFrame.
 ###
-O próximo passo foi realizar o tratamento e a limpeza dos dados. Utilizamos o método **.info** para verificar o tipo de dados com o qual estávamos trabalhando e identificamos a existência de 35 linhas que não continham valores e a coluna "Salário Anual (R$)" que não estava no formato numérico. Realizamos a transformação dos dados, eliminamos as linhas vazias e, por fim, excluímos a coluna "Unnamed: 8", que não continha valores relevantes.
+<img src="/img/dados.jpg">
+
 ###
-<img src="/img/info-dados.jpg">
+O próximo passo foi realizar o tratamento e a limpeza dos dados. Utilizamos o método **.info** para verificar o tipo de dados com o qual estávamos trabalhando e identificamos a existência de **35 linhas** que continham valores nulos e a coluna **"Salário Anual (R$)"** que não estava no formato numérico. Realizamos a transformação dos dados, excluímos a coluna **"Unnamed: 8"** e por fim **eliminamos as linhas vazias**, que não continha valores relevantes.
+###
+<img src="/img/dados-info.jpg">
 
 ###
 Em seguida, realizamos uma análise inicial e a criação dos gráficos. Utilizamos o método **.describe** para obter um resumo das informações e compreender o funcionamento da base de dados. Para a criação dos gráficos foi utilizado a biblioteca **Plotly** com o método de repetição **for**.
@@ -34,7 +37,7 @@ Em seguida, realizamos uma análise inicial e a criação dos gráficos. Utiliza
 <img src="/img/describe-dados.jpg">
 
 ###
-Tomaremos como base para a análise a nota média observada, que foi de 52.
+Tomaremos como base para a análise a nota média observada, que foi de **52**.
 
 ### Análise Exploratória:
 ###
