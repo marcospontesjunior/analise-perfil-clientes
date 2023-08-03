@@ -80,3 +80,9 @@ Observamos informações relevantes, mostrando que clientes com experiência de 
 Após as análises realizadas, chegamos à conclusão de que o cliente ideal para a empresa é acima dos 20 anos, com profissão na área de entretenimento ou arte, experiência de trabalho entre 10 a 15 anos e um agregado familiar com menos de 7 membros. A origem do cliente e a faixa salarial não demonstrou ser um fator determinante para a análise.
 ###
 Adicionalmente, verificamos que profissionais da área de construção e famílias com mais de 7 pessoas possuem a menor média de notas, sugerindo a possibilidade de implementar estratégias para melhorar a satisfação e experiência com a empresa.
+###
+
+---
+### Contato:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior)
