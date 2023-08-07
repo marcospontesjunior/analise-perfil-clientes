@@ -39,7 +39,7 @@ Em seguida, realizamos uma análise inicial e a criação dos gráficos. Utiliza
 ###
 Tomaremos como base para a análise a nota média observada, que foi de **52**.
 
-### Análise Exploratória:
+### Análise:
 ###
 - No primeiro gráfico, comparamos a origem do cliente (orgânico ou por meio de promoção) com a nota:
 
