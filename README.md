@@ -1,5 +1,8 @@
 # Análise de Perfil de Clientes
 
+###
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
+
 ### Sobre:
 
 Análise da base de dados em busca de identificar o perfil de cliente com base no histórico de compras.
