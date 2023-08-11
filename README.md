@@ -5,7 +5,7 @@
 
 ### Sobre:
 
-Análise da base de dados em busca de identificar o perfil de cliente com base no histórico de compras.
+Análise da base de dados em busca de identificar o perfil de cliente.
 
 ### Proposta:
 
