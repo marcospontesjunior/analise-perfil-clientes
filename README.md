@@ -15,6 +15,11 @@ Será feita uma análise com o objetivo de identificar os principais fatores que
 ###
 A solução final consistirá em um conjunto de gráficos, a partir dos quais serão extraídos insights baseados nessas análises.
 
+### Estrutura do Repositório:
+- <strong>data:</strong> Encontrará o arquivo **.csv** com os dados utilizados para a análise.
+- <strong>img:</strong> Aqui será encontrado os prints obtidos na análise.
+- <strong>notebook:</strong> Este diretório contém o notebook Jupyter onde a análise foi realizada e os resultados obtidos.
+
 ### Linguagem Utilizada:
 ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black)
