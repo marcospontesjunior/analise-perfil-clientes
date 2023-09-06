@@ -19,6 +19,7 @@ A solução final consistirá em um conjunto de gráficos, a partir dos quais se
 - <strong>data:</strong> Encontrará o arquivo **.csv** com os dados utilizados para a análise.
 - <strong>img:</strong> Aqui será encontrado os prints obtidos na análise.
 - <strong>notebook:</strong> Este diretório contém o notebook Jupyter onde a análise foi realizada e os resultados obtidos.
+- <strong>readme_translated:</strong> This repository contains the **PDF** with the report translated into English.
 
 ### Linguagem Utilizada:
 ###
