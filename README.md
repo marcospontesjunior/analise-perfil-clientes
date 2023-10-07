@@ -3,7 +3,7 @@
 ###
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
 
-### Sobre:
+### Sobre: 
 
 Análise da base de dados em busca de identificar o perfil de cliente.
 
